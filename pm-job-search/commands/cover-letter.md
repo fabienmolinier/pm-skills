@@ -1,6 +1,6 @@
 ---
-description: Génère 3 variantes de lettre de motivation pour un poste PM sur le marché français/européen — recherche entreprise multi-sources, extraction meta-skills, grounding strict sur le CV
-argument-hint: <texte de l'offre> <URL entreprise> [optionnel: nouveau CV]
+description: "Génère 3 variantes de lettre de motivation pour un poste PM sur le marché français/européen — recherche entreprise multi-sources, extraction meta-skills, grounding strict sur le CV"
+argument-hint: "<texte de l'offre> <URL entreprise> [optionnel: nouveau CV]"
 skill: pm-job-search/skills/cover-letter/SKILL.md
 ---
 
